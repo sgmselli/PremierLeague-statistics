@@ -1,0 +1,36 @@
+.Teams {
+    margin:4rem auto;
+    width:60%;
+    border: 1px solid black;
+    padding: 1rem;
+}
+
+.headliner {
+    margin: 0 auto;
+}
+
+.mainInfo {
+    display: flex;
+    justify-content: space-between;
+}
+
+.teams {
+    margin-top:1.7rem;
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+}
+
+.logo {
+
+}
+
+img {
+    height: 5rem;
+}
+
+.scores {
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+}
